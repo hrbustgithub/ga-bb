@@ -9,5 +9,7 @@ Abstract：Personalized products have variable BOM structures and complex proces
 Key words： personalized product    multi-shop    idle capacity    tree constraint    dynamic scheduling
 
 Cite
+
 XIE Zhi-qiang, XIA Ying-chun. Multi-shop Idle Capacity Scheduling Method Based on Genetic Algorithm and Branch and Bound. Journal of Mechanical Engineering, 2022, 58(22): 462-472. DOI: 10.3901/JME.2022.22.462
+
 谢志强, 夏迎春. 基于遗传算法和分枝定界的多车间空闲产能调度方法[J]. 机械工程学报, 2022, 58(22): 462-472. DOI: 10.3901/JME.2022.22.462
